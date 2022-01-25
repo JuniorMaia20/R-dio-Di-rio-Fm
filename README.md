@@ -1,2 +1,2 @@
 # R-dio-Di-rio-Fm
-Teste para vaga de Web Designer
+Projeto de teste para vaga de Web Designer.
